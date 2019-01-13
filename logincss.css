@@ -1,0 +1,12 @@
+body{
+	background-image: linear-gradient(white,palegreen,lightgreen);
+}
+#form{
+	border: 2px solid darkgreen;
+	font-family:verdana;
+	 margin-block-start: 10%;
+    margin-inline-end: 35%;
+    margin-inline-start: 35%;
+    margin-bottom: 15%;
+    padding: 3%;
+}

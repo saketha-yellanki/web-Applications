@@ -1,0 +1,22 @@
+body{
+	background-image: url("loopedited.png");
+	background-size: 50px;
+	
+	
+}
+#content{
+	border: 5px double brown;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #ffffff;
+}
+#intro
+{
+	border: 1px hidden black;
+	padding: 3%;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+	font-family: verdana;
+	
+}

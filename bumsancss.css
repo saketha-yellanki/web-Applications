@@ -1,0 +1,20 @@
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqTkh2NUH2aMQDFdF_rHEFDTfbRwy2IoQLhGNCFcbxmIT8F1GC");
+	background-size: 150px;
+}
+#content{
+	border: 5px double pink;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #ffffff;
+}
+#intro
+{
+	border: 1px hidden black;
+	padding: 3%;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+	font-family: verdana;
+	
+}

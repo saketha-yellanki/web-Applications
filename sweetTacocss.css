@@ -1,0 +1,19 @@
+body{
+	background-color: #baffff;
+}
+#content{
+	border: 5px double cyan;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #ffffff;
+}
+#intro
+{
+	border: 1px hidden black;
+	padding: 3%;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+	font-family: verdana;
+	
+}
